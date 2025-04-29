@@ -18,7 +18,7 @@
 
 源代码和原理图在重邮开源的github：https://github.com/CQUPTHXC/wireless-switching-power-meter
 
-原理图没有做太大修改，PCB和代码有修改，修改后的代码在 https://github.com/AnPuppyg/xju_wireless-emergency-stop
+原理图没有做太大修改，PCB和代码有修改，修改后的代码和gerber文件在 https://github.com/AnPuppyg/xju_wireless-emergency-stop
 
 1.修改了两对功率计和开关的mac地址，不然会乱连
 
