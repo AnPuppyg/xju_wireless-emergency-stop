@@ -2,9 +2,11 @@
 
 ## 使用方法
 
-<img src="xju_wireless-emergency-stop.assets/微信图片_20250428221523-1745929562683-6.jpg" alt="微信图片_20250428221523" style="zoom:33%;" />
+![1](xju_wireless-emergency-stop.image/1.jpg)
 
-<img src="xju_wireless-emergency-stop.assets/微信图片_20250428221529-1745929541356-4.jpg" alt="微信图片_20250428221529" style="zoom:33%;" />
+![2](xju_wireless-emergency-stop.image/2.jpg)
+
+
 
 1.功率计插上电池即可开机，保险加一个手动急停
 
@@ -14,7 +16,9 @@
 
 ## 说明
 
-源代码和原理图在重邮**开源的github**：https://github.com/CQUPTHXC/wireless-switching-power-meter，原理图没有做太大修改，PCB和代码有修改，修改后的代码在 https://github.com/AnPuppyg/xju_wireless-emergency-stop
+源代码和原理图在重邮开源的github：https://github.com/CQUPTHXC/wireless-switching-power-meter
+
+原理图没有做太大修改，PCB和代码有修改，修改后的代码在 https://github.com/AnPuppyg/xju_wireless-emergency-stop
 
 1.修改了两对功率计和开关的mac地址，不然会乱连
 
@@ -23,3 +27,5 @@
 黑色（2号）：48:CA:43:F5:CF:F4
 
 2.修改了源代码的温度阈值和电压阈值，增加了高电压保护，功率计温度超过50度、电压低于24V或高于25.6V都会自动切断电源并且报警
+
+3.修改了一点GUI
