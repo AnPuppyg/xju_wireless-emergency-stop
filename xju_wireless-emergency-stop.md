@@ -4,9 +4,11 @@
 <div align=center>
 	<img src="xju_wireless-emergency-stop.image/1.jpg" width = "300" height = "300" alt="" align=middle/>
 </div>
+
 <div align=center>
 	<img src="xju_wireless-emergency-stop.image/2.jpg" width = "300" height = "300" alt="" align=middle/>
 </div>
+
 
 1.功率计插上电池即可开机，保险加一个手动急停
 
@@ -28,7 +30,7 @@
 
 黑色（2号）：48:CA:43:F5:CF:F4
 
-2.修改了源代码的温度阈值和电压阈值，增加了高电压保护，功率计温度超过50度、电压低于24V或高于25.6V都会自动切断电源并且报警
+2.修改了源代码的温度阈值和电压阈值，增加了高电压保护，功率计温度超过55度、电压低于24V或高于25.6V都会自动切断电源并且报警
 
 3.修改了一点GUI
 
